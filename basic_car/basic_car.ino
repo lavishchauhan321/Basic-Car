@@ -1,5 +1,5 @@
 int trigpin,echopin,m1_pwm,m1_h,m1_l,m2_pwm,m2_h,m2_l;
-double dur;
+double duration;
 
 
 
